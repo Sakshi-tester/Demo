@@ -8,14 +8,15 @@ public class RestApiTest {
 	public void Api()
 	{
 		System.out.println("Api");
-		System.out.println("heyyyy");
-		System.out.println("how are you");
+		
 	}
 	
 	@Test
 	public void Backend()
 	{
 		System.out.println("Backend");
+		System.out.println("jerkin");
+		System.out.println("maven");
 	}
 
 }
