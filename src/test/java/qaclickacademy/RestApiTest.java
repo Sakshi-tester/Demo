@@ -10,7 +10,9 @@ public class RestApiTest {
 		System.out.println("Api");
 		System.out.println("jerkin");
 		System.out.println("maven");
-		
+		System.out.println("maven");
+		System.out.println("jerkin");
+		System.out.println("maven");
 	}
 	
 	@Test
@@ -19,8 +21,14 @@ public class RestApiTest {
 		System.out.println("Backend");
 		System.out.println("jerkin");
 		System.out.println("maven");
-		System.out.println("jerkin");
-		System.out.println("maven");
+	
 	}
 
+	@Test
+	public void frontend()
+	{
+		System.out.println("Backend");
+		System.out.println("jerkin");
+		System.out.println("maven");
+}
 }
