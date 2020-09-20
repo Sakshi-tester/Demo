@@ -8,6 +8,8 @@ public class RestApiTest {
 	public void Api()
 	{
 		System.out.println("Api");
+		System.out.println("heyyyy");
+		System.out.println("how are you");
 	}
 	
 	@Test
