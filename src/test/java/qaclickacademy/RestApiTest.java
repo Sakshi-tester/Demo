@@ -8,6 +8,8 @@ public class RestApiTest {
 	public void Api()
 	{
 		System.out.println("Api");
+		System.out.println("jerkin");
+		System.out.println("maven");
 		
 	}
 	
@@ -15,6 +17,8 @@ public class RestApiTest {
 	public void Backend()
 	{
 		System.out.println("Backend");
+		System.out.println("jerkin");
+		System.out.println("maven");
 		System.out.println("jerkin");
 		System.out.println("maven");
 	}
